@@ -1,0 +1,284 @@
+[
+   {
+      "ria.ru":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "gazeta.ru":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "kp.ru":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "riafan.ru":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "pikabu.ru":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "kommersant.ru":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "mk.ru":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "yaplakal.com":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "rbc.ru":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "bezformata.com":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://gazprom.ru":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://lukoil.ru":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://magnit.ru":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://nornickel.com":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://surgutneftegas.ru":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://tatneft.ru":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://evraz.com/ru/":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://nlmk.com":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://sibur.ru":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://severstal.com":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://metalloinvest.com":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://nangs.org":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://rmk-group.ru/ru/":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://tmk-group.ru":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://ya.ru":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://polymetalinternational.com/ru/":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://uralkali.com/ru/":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://eurosib.ru":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://omk.ru":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://sberbank.ru":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://vtb.ru":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://gazprombank.ru":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://gosuslugi.ru":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://mos.ru/uslugi":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://kremlin.ru":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://government.ru":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://mil.ru":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://nalog.gov.ru":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://customs.gov.ru":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://pfr.gov.ru":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://rkn.gov.ru":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://lenta.ru":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://ria.ru/":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://ria.ru/lenta/":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://www.rbc.ru/":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://www.rt.com/":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "http://en.kremlin.ru/":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://smotrim.ru/":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://tass.ru/":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://tvzvezda.ru/":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://vsoloviev.ru/":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://www.1tv.ru/":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://www.vesti.ru/":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://online.sberbank.ru/":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://iz.ru":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      },
+      "https://ukraina.ru":{
+         "number_of_requests":0,
+         "number_of_errored_responses":0,
+         "error_message":"Failed to fetch"
+      }
+   }
+]
