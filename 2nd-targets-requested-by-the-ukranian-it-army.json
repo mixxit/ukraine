@@ -1,0 +1,167 @@
+[    {
+        'https://sputnik.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://www.tvr.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://www.sb.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://belmarket.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://www.belarus.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://belarus24.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://ont.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://www.024.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://www.belnovosti.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://mogilevnews.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://yandex.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://www.slonves.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'http://www.ctv.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://radiobelarus.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://radiusfm.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://alfaradio.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://radiomir.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://radiostalica.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://radiobrestfm.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://www.tvrmogilev.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://minsknews.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://zarya.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://grodnonews.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://rec.gov.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://www.mil.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'http://www.government.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://president.gov.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://www.mvd.gov.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'http://www.kgb.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'http://www.prokuratura.gov.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'http://www.nbrb.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://belarusbank.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://brrb.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://www.belapb.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://bankdabrabyt.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://belinvestbank.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://bgp.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://www.belneftekhim.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'http://www.bellegprom.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'https://www.energo.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+        'http://belres.by': {
+            number_of_requests: 0,
+            number_of_errored_responses: 0
+        },
+    }
+]
